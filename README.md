@@ -1,3 +1,3 @@
 # test
-test rep pietrot60
+test repo pietrot60
 test new edit
